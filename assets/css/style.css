@@ -1,0 +1,55 @@
+.jumbotron {
+	height:50px;
+	padding:5px 10% 0 0;
+	margin:0;
+	width:100% ;
+	background-color: #fff;
+}
+h1.text-right{
+		font-size: 40px;
+		margin:0;
+		padding:0;
+}
+.heroes {
+	margin:0;
+	padding:0;
+	height:100%;
+	width:100%;
+	background-color: #fff;
+	border: 2px solid #4CAF50;
+}
+img {
+	height:80px;
+	width:130px;
+	margin:0;
+	padding:0;
+}
+.charholder {
+	text-align:center;
+	height: 130px;
+	width: 150px;
+	border: none;
+	margin:0;
+	padding:0;
+}
+.placeholder {
+	height: 130px;
+	width: 150px;
+	margin:0;
+	padding:0;
+}
+.enemyholder {
+	text-align:center;
+	height: 130px;
+	width: 150px;
+	border: solid 3px green;
+	margin:0;
+	padding:0;
+}
+.container {
+	width:100%;
+	margin:0 10px 0 10px;
+}
+p {
+	padding-left:20px;
+}
